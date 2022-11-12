@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_block_bee",
+  "name": "obj_drone_bee_1",
   "spriteId": {
-    "name": "spr_block_bee_1",
-    "path": "sprites/spr_block_bee_1/spr_block_bee_1.yy",
+    "name": "spr_drone_bee_1",
+    "path": "sprites/spr_drone_bee_1/spr_drone_bee_1.yy",
   },
   "solid": false,
   "visible": true,
@@ -12,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_block_number",
-    "path": "objects/obj_block_number/obj_block_number.yy",
+    "name": "obj_drone_bee_parent",
+    "path": "objects/obj_drone_bee_parent/obj_drone_bee_parent.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -34,7 +34,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "bees",
-    "path": "folders/Objects/bees.yy",
+    "name": "drones",
+    "path": "folders/Objects/bees/drones.yy",
   },
 }

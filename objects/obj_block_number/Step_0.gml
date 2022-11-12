@@ -1,33 +1,15 @@
 /// @description Insert description here
 // You can write your code in this editor
+//event_inherited();
 if(state == 0)
 {
 	if(number > 0)
 	{
-		/*
-		inst = instance_place(x + 32, y, obj_block_number);
-		if(inst != noone && inst.image_index == 1)
-		{
-			inst.to_destroy = true;
-			to_destroy = true;
-		}
-		*/
-		result = check_around();
+		result = check_around(obj_bee_parent);
 		count = ds_list_size(result);
 		show_debug_message("Number:" + string(number) + " Count: " + string(count));
 		if(count == number)
 		{
-			/*
-			for(var i = 0; i < count; i++)
-			{
-				show_debug_message("i = " + string(i));
-				result[| i].to_destroy = true;
-			}
-			//destroy_around();
-			to_destroy = true;
-			
-			ds_list_destroy(result);
-			*/
 			complete = true;
 			//obj_game.complete_count++;
 			if(ds_list_find_index(obj_game.complete_list, self) == -1)

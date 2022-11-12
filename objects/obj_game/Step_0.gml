@@ -59,8 +59,8 @@ if(state == 0)
 }
 if(state == 1)
 {
-	if(obj_game.processed_count == instance_number(obj_block_number))
-	{
+	//if(obj_game.processed_count == instance_number(obj_block_number)
+	if(obj_game.processed_count >= instance_number(obj_block_number)){
 		with(obj_block_number)
 		{
 			//TODO (Fixed 10/17/2022): to_destroy should not be happening anymore, is this functional?

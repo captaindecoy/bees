@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_block_bee_2",
+  "name": "obj_worker_bee_1",
   "spriteId": {
-    "name": "spr_block_bee_2",
-    "path": "sprites/spr_block_bee_2/spr_block_bee_2.yy",
+    "name": "spr_worker_bee_1",
+    "path": "sprites/spr_worker_bee_1/spr_worker_bee_1.yy",
   },
   "solid": false,
   "visible": true,
@@ -12,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_block_bee",
-    "path": "objects/obj_block_bee/obj_block_bee.yy",
+    "name": "obj_worker_bee_parent",
+    "path": "objects/obj_worker_bee_parent/obj_worker_bee_parent.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -34,7 +34,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "bees",
-    "path": "folders/Objects/bees.yy",
+    "name": "workers",
+    "path": "folders/Objects/bees/workers.yy",
   },
 }

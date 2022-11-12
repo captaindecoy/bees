@@ -7,7 +7,7 @@ draw_text(x, y + 14 , "Blocks: " + string(instance_number(obj_block_number)));
 draw_text(x, y + 28 , "Complete: " + string(complete_count));
 draw_text(x, y + 42 , "Complete list: " + string(ds_list_size(complete_list)));
 draw_text(x, y + 56, room_get_name(room));
-//draw_text(x, y + 28 , "Processed: " + string(instance_number(processed_count))); //not actually helping
+draw_text(x, y + 70 , "Processed: " + string(processed_count)); //not actually helping
 
 if(state == 2)
 {
