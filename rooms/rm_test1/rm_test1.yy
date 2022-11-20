@@ -22,7 +22,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_68D71C90","properties":[],"isDnd":false,"objectId":{"name":"obj_worker_bee_2","path":"objects/obj_worker_bee_2/obj_worker_bee_2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":584.0,"y":352.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_429FFE19","properties":[],"isDnd":false,"objectId":{"name":"obj_hive_3","path":"objects/obj_hive_3/obj_hive_3.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":584.0,"y":416.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_170466DF","properties":[],"isDnd":false,"objectId":{"name":"obj_worker_bee_1","path":"objects/obj_worker_bee_1/obj_worker_bee_1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":584.0,"y":288.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5DA6BCD2","properties":[],"isDnd":false,"objectId":{"name":"obj_drone_bee_1","path":"objects/obj_drone_bee_1/obj_drone_bee_1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":632.0,"y":320.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4DB76CA9","properties":[],"isDnd":false,"objectId":{"name":"obj_drone_bee_1","path":"objects/obj_drone_bee_1/obj_drone_bee_1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":584.0,"y":480.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2A59500A","properties":[],"isDnd":false,"objectId":{"name":"obj_drone_bee_1","path":"objects/obj_drone_bee_1/obj_drone_bee_1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":632.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_29B3A870","properties":[],"isDnd":false,"objectId":{"name":"obj_flower_1","path":"objects/obj_flower_1/obj_flower_1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":584.0,"y":544.0,},
@@ -41,7 +40,6 @@
     {"name":"inst_68D71C90","path":"rooms/rm_test1/rm_test1.yy",},
     {"name":"inst_429FFE19","path":"rooms/rm_test1/rm_test1.yy",},
     {"name":"inst_170466DF","path":"rooms/rm_test1/rm_test1.yy",},
-    {"name":"inst_5DA6BCD2","path":"rooms/rm_test1/rm_test1.yy",},
     {"name":"inst_4DB76CA9","path":"rooms/rm_test1/rm_test1.yy",},
     {"name":"inst_2A59500A","path":"rooms/rm_test1/rm_test1.yy",},
     {"name":"inst_29B3A870","path":"rooms/rm_test1/rm_test1.yy",},
@@ -71,7 +69,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "test",
+    "path": "folders/Rooms/test.yy",
   },
 }
