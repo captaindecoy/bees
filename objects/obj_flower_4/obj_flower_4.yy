@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_flower_4",
   "spriteId": {
-    "name": "spr_flower_3",
-    "path": "sprites/spr_flower_3/spr_flower_3.yy",
+    "name": "spr_flower_4",
+    "path": "sprites/spr_flower_4/spr_flower_4.yy",
   },
   "solid": false,
   "visible": true,
