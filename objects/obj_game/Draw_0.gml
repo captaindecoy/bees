@@ -10,6 +10,13 @@ draw_text(x, y + 42 , "Complete list: " + string(ds_list_size(complete_list)));
 */
 //draw_text(x, y + 56, room_get_name(room));
 draw_text(x, y, room_get_name(room));
+if(state != 2)
+{
+	draw_set_halign(fa_center);
+	draw_text(room_width / 2, 64, instructions);
+	draw_set_halign(fa_left);
+}
+
 //draw_text(x, y + 70 , "Processed: " + string(processed_count)); //not actually helping
 
 if(state == 2)

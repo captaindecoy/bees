@@ -35,3 +35,5 @@ processed_count = 0;
 
 complete_count = 0;
 complete_list = ds_list_create();
+
+instructions = load_instructions();
