@@ -1,6 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+if(complete == true)
+{
+	cell_sprite = 1;	
+}
+else
+{
+	cell_sprite = 0;	
+}
 if(state == 0)
 {
 	if(number > 0 && processed != true)
@@ -11,6 +18,7 @@ if(state == 0)
 		if(count == number)
 		{
 			complete = true;
+			//cell_sprite = 1;
 			//obj_game.complete_count++;
 			if(ds_list_find_index(obj_game.complete_list, self) == -1)
 			{

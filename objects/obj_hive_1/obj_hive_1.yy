@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_hive_1",
   "spriteId": {
-    "name": "spr_hive_1",
-    "path": "sprites/spr_hive_1/spr_hive_1.yy",
+    "name": "spr_hive_wip",
+    "path": "sprites/spr_hive_wip/spr_hive_wip.yy",
   },
   "solid": false,
   "visible": true,

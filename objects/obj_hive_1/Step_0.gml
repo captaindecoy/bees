@@ -1,5 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
+//if(complete == true)
+//{
+//	cell_sprite = 1;	
+//}
 event_inherited();
 /*
 if(state == 0)
@@ -72,3 +76,5 @@ if(state == 1)
 	}
 }
 */
+
+

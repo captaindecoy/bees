@@ -9,7 +9,10 @@ draw_text(x, y + 28 , "Complete: " + string(complete_count));
 draw_text(x, y + 42 , "Complete list: " + string(ds_list_size(complete_list)));
 */
 //draw_text(x, y + 56, room_get_name(room));
-draw_text(x, y, room_get_name(room));
+if(debug_mode)
+{
+	draw_text(x, y, room_get_name(room));
+}
 if(state != 2)
 {
 	draw_set_halign(fa_center);

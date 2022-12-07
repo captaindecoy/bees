@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_block_plain",
   "spriteId": {
-    "name": "spr_hex_blocks",
-    "path": "sprites/spr_hex_blocks/spr_hex_blocks.yy",
+    "name": "spr_movable_cell",
+    "path": "sprites/spr_movable_cell/spr_movable_cell.yy",
   },
   "solid": false,
   "visible": true,
