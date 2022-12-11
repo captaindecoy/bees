@@ -3,3 +3,4 @@
 
 event_inherited();
 number = 1;
+cell_sprite = 0;
