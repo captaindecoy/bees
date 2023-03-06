@@ -9,5 +9,6 @@ processed = false;
 complete = false;
 obj_game.complete_count++;
 movable = true;
+cell_sprite = 0;
 
 

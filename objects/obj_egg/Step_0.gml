@@ -3,6 +3,14 @@
 /// @description Insert description here
 // You can write your code in this editor
 //event_inherited();
+if(complete == true)
+{
+	cell_sprite = 1;	
+}
+else
+{
+	cell_sprite = 0;	
+}
 if(state == 0)
 {
 	if(number > 0)

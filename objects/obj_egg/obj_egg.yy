@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_egg",
   "spriteId": {
-    "name": "spr_egg",
-    "path": "sprites/spr_egg/spr_egg.yy",
+    "name": "spr_egg_block",
+    "path": "sprites/spr_egg_block/spr_egg_block.yy",
   },
   "solid": false,
   "visible": true,
